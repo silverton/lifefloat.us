@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css/
+Disallow: /images/
+Disallow: /javascripts/
+Disallow: /stylesheets/
+Disallow: googlee3fb7dc1b3c6dbf9.html
+Disallow: robots.txt
